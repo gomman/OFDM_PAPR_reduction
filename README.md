@@ -14,3 +14,9 @@ Please cite the paper if you have referenced from this code.
 The purpose of sharing the code is not to provide the user-friendly simulator but to share the code implementations for research.
 Please understand that the code is not originally meant to share with others, so it is not documented well.
 There are many figures in the paper, so the hyper-parameters need to be tuned according to simulation environments.
+
+In this code, we have used
+
+Tensorflow v1.15 (if you have tensorflow v2.x, you need to disable tensorflow v2 and replace all the deprecated tfv1 functions to tfv2 functions
+Python 3.6 and above
+
